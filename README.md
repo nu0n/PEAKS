@@ -1,2 +1,2 @@
 # PEAKS
-Just testes climbing in unity based on peak of yore - 
+Just tests for climbing in unity based on peak of yore - 
